@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- JAVA와 연결할 Mapper 파일 설정 -->
+<mapper namespace="poly.persistance.mapper.MainMapper">
+
+<!--    <select id = "searchlist" resultType="-&#45;&#45;&#45;&#45;">
+        SELECT
+                RES_NAME,
+                SEQ
+                RES_MENU,
+                RES_ADD,
+                RES_CONTACT,
+                RES_TIME,
+                RES_WEB,
+                RES_DATE,
+                RES_CAT,
+                RES_BREAK,
+                RES_MONEY,
+                RES_PARK
+        FROM
+            CRAWL_INFO
+        <trim prefix="WHERE" prefixOverrides="AND|OR">
+            <if test = "searchType == 'title' and keyword != null and keyword != ">
+                AND TITLE like CONCAT('%',#{keyword},'%')
+
+            <if test = "searchType == 'res_cat' and keyword != null and keyword !=">
+                AND TITLE like CONCAT('%',#{keyword},'%')
+            </if>
+            <if test = "searchType == 'res_add' and keyword != null and keyword != ">
+                AND TITLE like CONCAT('%',#{keyword},'%')
+            </if>
+     </trim>&ndash;&gt;-->
+
+<!--    </select>-->
+
+			
+</mapper>

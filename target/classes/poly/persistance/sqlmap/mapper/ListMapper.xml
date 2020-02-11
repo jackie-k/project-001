@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- JAVA와 연결할 Mapper 파일 설정 -->
+<mapper namespace="poly.persistance.mapper.ListMapper">
+
+    <select id = "getSearchList" parameterType="map" resultType = "ListDTO">
+        SELECT
+            RES_NAME AS res_name,
+            RES_ADD AS res_add,
+            RES_TEL AS res_tel,
+            RES_CAT AS res_cat,
+            RES_PRICE AS res_price,
+            RES_PARK AS res_park,
+            RES_TIME AS res_time,
+            RES_BREAK AS res_break,
+            RES_LAST AS res_last,
+            RES_HOLI AS res_holi,
+            SEQ AS seq
+        FROM
+            CRAWL_INFO
+        WHERE
+            <if test="type == '상호'">
+                RES_NAME LIKE '%'||#{SearchQuery}||'%'
+            </if>
+            <if test="type == '카테고리'">
+                RES_CAT LIKE '%'||#{SearchQuery}||'%'
+            </if>
+            ORDER BY seq ASC
+    </select>
+
+    <select id = "getCertainList" resultType = "ListDTO">
+                <![CDATA[
+
+                 SELECT
+                RES_NAME AS res_name,
+                RES_ADD AS res_add,
+                RES_TEL AS res_tel,
+                RES_CAT AS res_cat,
+                RES_PRICE AS res_price,
+                RES_PARK AS res_park,
+                RES_TIME AS res_time,
+                RES_BREAK AS res_break,
+                RES_LAST AS res_last,
+                RES_HOLI AS res_holi,
+                SEQ AS seq
+
+              FROM ( SELECT
+                    A.*, ROWNUM AS RNUM
+                 FROM
+                    (SELECT * FROM CRAWL_INFO WHERE RES_CAT LIKE '%'||#{ButtonValue}||'%'
+                     ORDER BY seq) A
+                 WHERE
+                    ROWNUM <= #{listsize}
+                 ) WHERE
+                    RNUM > #{startlist}
+
+        ]]>
+    </select>
+    <select id = "getFeaturedList" resultType = "ListDTO">
+        SELECT
+            RES_NAME AS res_name,
+            RES_ADD AS res_add,
+            RES_TEL AS res_tel,
+            RES_CAT AS res_cat,
+            RES_PRICE AS res_price,
+            RES_PARK AS res_park,
+            RES_TIME AS res_time,
+            RES_BREAK AS res_break,
+            RES_LAST AS res_last,
+            RES_HOLI AS res_holi,
+            SEQ AS seq
+        FROM
+            CRAWL_INFO ORDER BY seq DESC
+    </select>
+
+    <select id = "getListDetail" resultType = "ListDTO" parameterType="String">
+        SELECT
+            RES_NAME AS res_name,
+            RES_ADD AS res_add,
+            RES_TEL AS res_tel,
+            RES_CAT AS res_cat,
+            RES_PRICE AS res_price,
+            RES_PARK AS res_park,
+            RES_TIME AS res_time,
+            RES_BREAK AS res_break,
+            RES_LAST AS res_last,
+            RES_HOLI AS res_holi,
+            SEQ AS seq
+        FROM
+            CRAWL_INFO
+        WHERE
+            RES_NAME LIKE '%'||#{Res_name}||'%'
+    </select>
+
+    <select id="TotalCount" resultType = "integer">
+        SELECT
+            COUNT(*)
+        FROM
+            CRAWL_INFO
+
+    </select>
+
+    <select id="CertainCount" resultType = "integer">
+        SELECT
+            COUNT(*)
+        FROM
+            CRAWL_INFO
+        WHERE
+             RES_CAT LIKE '%'||#{ButtonValue}||'%'
+
+    </select>
+
+    <select id="SearchCount" resultType = "integer">
+        SELECT
+            COUNT(*)
+        FROM
+            CRAWL_INFO
+        WHERE
+        <if test="type == '상호'">
+            RES_NAME LIKE '%'||#{SearchQuery}||'%'
+        </if>
+        <if test="type == '카테고리'">
+            RES_CAT LIKE '%'||#{SearchQuery}||'%'
+        </if>
+        ORDER BY seq ASC
+
+    </select>
+
+
+</mapper>

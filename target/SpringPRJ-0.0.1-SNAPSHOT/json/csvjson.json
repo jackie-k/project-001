@@ -1,0 +1,1444 @@
+{
+  "restaurantloc": [
+    {
+      "No": 1,
+      "restaurant": "스시카나에",
+      "adress": "서울시 강남구 청담동 96-22",
+      "longlitude": 127.0456935,
+      "latitude": 37.52519889,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 2,
+      "restaurant": "갓포아키",
+      "adress": "서울시 강남구 신사동 651-5",
+      "longlitude": 127.0362125,
+      "latitude": 37.52298375,
+      "RES_CAT": "restaurant / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 3,
+      "restaurant": "쥬에",
+      "adress": "서울시 용산구 한남동 3-1",
+      "longlitude": 127.012782,
+      "latitude": 37.53742133,
+      "RES_CAT": "restaurant / 중식"
+    },
+    {
+      "No": 4,
+      "restaurant": "알라프리마",
+      "adress": "서울시 강남구 논현동 42-6",
+      "longlitude": 127.0259984,
+      "latitude": 37.51355403,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 5,
+      "restaurant": "미라이",
+      "adress": "서울시 강남구 신사동 557-25",
+      "longlitude": 127.0261779,
+      "latitude": 37.52105691,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 6,
+      "restaurant": "쿠이신보",
+      "adress": "서울시 강남구 신사동 539",
+      "longlitude": 127.0241071,
+      "latitude": 37.51859389,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 7,
+      "restaurant": "SOOT",
+      "adress": "서울시 강남구 신사동 561-35",
+      "longlitude": 127.0259184,
+      "latitude": 37.51962679,
+      "RES_CAT": "restaurant / 양식"
+    },
+    {
+      "No": 8,
+      "restaurant": "사잔카",
+      "adress": "서울시 강남구 신사동 640-13",
+      "longlitude": 127.035661,
+      "latitude": 37.52808247,
+      "RES_CAT": "restaurant / 일식"
+    },
+    {
+      "No": 9,
+      "restaurant": "톡톡",
+      "adress": "서울시 강남구 청담동 69-5",
+      "longlitude": 127.0542813,
+      "latitude": 37.52240458,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 10,
+      "restaurant": "파씨오네",
+      "adress": "서울시 강남구 신사동 646-23",
+      "longlitude": 127.0367139,
+      "latitude": 37.52543837,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 11,
+      "restaurant": "이치에",
+      "adress": "서울시 강남구 신사동 656-7",
+      "longlitude": 127.0376559,
+      "latitude": 37.52537345,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 12,
+      "restaurant": "로바타탄요",
+      "adress": "서울시 강남구 신사동 584-1",
+      "longlitude": 127.027669,
+      "latitude": 37.52328409,
+      "RES_CAT": "restaurant / 일식"
+    },
+    {
+      "No": 13,
+      "restaurant": "산울림1992",
+      "adress": "서울시 마포구 창전동 5-138",
+      "longlitude": 126.9305238,
+      "latitude": 37.55463227,
+      "RES_CAT": "bar / 술집 / 전통 주점 / 포차"
+    },
+    {
+      "No": 14,
+      "restaurant": "가담",
+      "adress": "서울시 강남구 신사동 608-8",
+      "longlitude": 127.0302434,
+      "latitude": 37.52636768,
+      "RES_CAT": "restaurant / 중식"
+    },
+    {
+      "No": 15,
+      "restaurant": "하시엔다",
+      "adress": "서울시 용산구 이태원동 128-15",
+      "longlitude": 126.9934824,
+      "latitude": 37.53400375,
+      "RES_CAT": "restaurant / 남미 음식"
+    },
+    {
+      "No": 16,
+      "restaurant": "이요이요스시",
+      "adress": "서울시 마포구 공덕동 469",
+      "longlitude": 126.952156,
+      "latitude": 37.55072787,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 17,
+      "restaurant": "당도",
+      "adress": "서울시 마포구 망원동 414-16",
+      "longlitude": 126.9048399,
+      "latitude": 37.55641318,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 18,
+      "restaurant": "콴안다오",
+      "adress": "서울시 강남구 신사동 516-2",
+      "longlitude": 127.0215069,
+      "latitude": 37.51847804,
+      "RES_CAT": "restaurant / 베트남 음식"
+    },
+    {
+      "No": 19,
+      "restaurant": "껠끄쇼즈",
+      "adress": "서울시 강남구 대치동 1023-19",
+      "longlitude": 127.0565927,
+      "latitude": 37.49699419,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 20,
+      "restaurant": "정돈",
+      "adress": "서울시 강남구 역삼동 811-4",
+      "longlitude": 127.0269432,
+      "latitude": 37.5035969,
+      "RES_CAT": "restaurant / 일식 / 돈까스"
+    },
+    {
+      "No": 21,
+      "restaurant": "폴앤폴리나",
+      "adress": "서울시 종로구 내수동 74",
+      "longlitude": 126.9731391,
+      "latitude": 37.57377274,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 22,
+      "restaurant": "이치류",
+      "adress": "서울시 마포구 서교동 395-124",
+      "longlitude": 126.9190974,
+      "latitude": 37.55060297,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐 / 고기 요리"
+    },
+    {
+      "No": 23,
+      "restaurant": "스시이마",
+      "adress": "서울시 은평구 역촌동 9-60",
+      "longlitude": 126.9160075,
+      "latitude": 37.60604282,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 24,
+      "restaurant": "야상해",
+      "adress": "서울시 용산구 이태원동 119-16",
+      "longlitude": 126.9927611,
+      "latitude": 37.53478052,
+      "RES_CAT": "restaurant / 중식 / 딤섬 / 만두"
+    },
+    {
+      "No": 25,
+      "restaurant": "스시코에",
+      "adress": "서울시 서초구 방배동 866-20",
+      "longlitude": 126.9841774,
+      "latitude": 37.48603429,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 26,
+      "restaurant": "허브족발",
+      "adress": "서울시 영등포구 당산동6가 237-38",
+      "longlitude": 126.9029422,
+      "latitude": 37.53424159,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 27,
+      "restaurant": "이치류",
+      "adress": "서울시 용산구 한남동 319",
+      "longlitude": 127.0086187,
+      "latitude": 37.53297796,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐 / 고기 요리"
+    },
+    {
+      "No": 28,
+      "restaurant": "호가양꼬치",
+      "adress": "서울시 종로구 수송동 71-1",
+      "longlitude": 126.980737,
+      "latitude": 37.57283536,
+      "RES_CAT": "restaurant / 중식"
+    },
+    {
+      "No": 29,
+      "restaurant": "티톨로",
+      "adress": "서울시 강남구 청담동 79-8",
+      "longlitude": 127.0430604,
+      "latitude": 37.52668373,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 30,
+      "restaurant": "오향가",
+      "adress": "서울시 송파구 가락동 73-2",
+      "longlitude": 127.1213984,
+      "latitude": 37.49675812,
+      "RES_CAT": "restaurant / 중식"
+    },
+    {
+      "No": 31,
+      "restaurant": "김씨마구로",
+      "adress": "서울시 동작구 노량진동 13-6",
+      "longlitude": 126.936813,
+      "latitude": 37.51460949,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 32,
+      "restaurant": "바오바",
+      "adress": "서울시 용산구 이태원동 455-47",
+      "longlitude": 126.9880154,
+      "latitude": 37.53464227,
+      "RES_CAT": "restaurant / 중식"
+    },
+    {
+      "No": 33,
+      "restaurant": "진만두",
+      "adress": "서울시 마포구 서교동 327-22",
+      "longlitude": 126.9292337,
+      "latitude": 37.55519048,
+      "RES_CAT": "restaurant / 중식 / 딤섬 / 만두"
+    },
+    {
+      "No": 34,
+      "restaurant": "지아니스나폴리",
+      "adress": "서울시 강남구 역삼동 669-18",
+      "longlitude": 127.0375143,
+      "latitude": 37.50268633,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 35,
+      "restaurant": "오가와",
+      "adress": "서울시 종로구 당주동 5",
+      "longlitude": 126.9743025,
+      "latitude": 37.57197808,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 36,
+      "restaurant": "BISTROT de YOUNTVILLE",
+      "adress": "서울시 강남구 청담동 83-6",
+      "longlitude": 127.041169,
+      "latitude": 37.52603387,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 37,
+      "restaurant": "오스테리아샘킴",
+      "adress": "서울시 마포구 합정동 386-37",
+      "longlitude": 126.9108973,
+      "latitude": 37.55131261,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 38,
+      "restaurant": "장스테이크하우스",
+      "adress": "서울시 강남구 신사동 644-18",
+      "longlitude": 127.0356781,
+      "latitude": 37.52619502,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 고기 요리 / 바베큐"
+    },
+    {
+      "No": 39,
+      "restaurant": "브라이리퍼블릭",
+      "adress": "서울시 용산구 이태원동 63-4",
+      "longlitude": 126.9907646,
+      "latitude": 37.53353238,
+      "RES_CAT": "restaurant / 양식 / 세계 음식"
+    },
+    {
+      "No": 40,
+      "restaurant": "쿠촐로오스테리아",
+      "adress": "서울시 용산구 용산동2가 45-13",
+      "longlitude": 126.9871484,
+      "latitude": 37.54115621,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 41,
+      "restaurant": "진미평양냉면",
+      "adress": "서울시 강남구 논현동 115-10",
+      "longlitude": 127.0360092,
+      "latitude": 37.51615358,
+      "RES_CAT": "restaurant / 한식 / 국수 / 면 요리"
+    },
+    {
+      "No": 42,
+      "restaurant": "스프카레진 (휴업중)",
+      "adress": "서울시 마포구 서교동 403-9",
+      "longlitude": 126.9204167,
+      "latitude": 37.54904941,
+      "RES_CAT": "restaurant / 일식 / 돈부리 / 일본 카레 / 벤토"
+    },
+    {
+      "No": 43,
+      "restaurant": "육전식당",
+      "adress": "서울시 동대문구 신설동 104-3",
+      "longlitude": 127.0242679,
+      "latitude": 37.5742779,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 44,
+      "restaurant": "롸카두들내쉬빌핫치킨",
+      "adress": "서울시 용산구 이태원동 449-1",
+      "longlitude": 126.9880643,
+      "latitude": 37.53490205,
+      "RES_CAT": "restaurant / 양식 / 브런치 / 버거 / 샌드위치"
+    },
+    {
+      "No": 45,
+      "restaurant": "스시아라타",
+      "adress": "서울시 영등포구 당산동3가 158-1",
+      "longlitude": 126.8977528,
+      "latitude": 37.52653525,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 46,
+      "restaurant": "듁스커피",
+      "adress": "서울시 마포구 당인동 24-11",
+      "longlitude": 126.9197354,
+      "latitude": 37.54615755,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 47,
+      "restaurant": "르페셰미뇽",
+      "adress": "서울시 용산구 이태원동 447-5",
+      "longlitude": 126.9877183,
+      "latitude": 37.53525656,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 48,
+      "restaurant": "버블앤코클스",
+      "adress": "서울시 용산구 한남동 738-14",
+      "longlitude": 126.9991591,
+      "latitude": 37.53626213,
+      "RES_CAT": "restaurant / 양식 / 시푸드 요리"
+    },
+    {
+      "No": 49,
+      "restaurant": "홈보이서울",
+      "adress": "서울시 마포구 연남동 228-28",
+      "longlitude": 126.9250143,
+      "latitude": 37.56276204,
+      "RES_CAT": "restaurant / 퓨전 중식"
+    },
+    {
+      "No": 50,
+      "restaurant": "길목",
+      "adress": "서울시 강남구 삼성동 58-6",
+      "longlitude": 127.0563698,
+      "latitude": 37.51904431,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 51,
+      "restaurant": "마루심",
+      "adress": "서울시 서초구 반포동 54-10",
+      "longlitude": 127.0104248,
+      "latitude": 37.50188976,
+      "RES_CAT": "restaurant / 일식 / 돈부리 / 일본 카레 / 벤토"
+    },
+    {
+      "No": 52,
+      "restaurant": "농민백암왕순대",
+      "adress": "서울시 강남구 역삼동 830-9",
+      "longlitude": 127.0314698,
+      "latitude": 37.49490752,
+      "RES_CAT": "restaurant / 한식 / 탕 / 찌개 / 전골"
+    },
+    {
+      "No": 53,
+      "restaurant": "랑꼬뉴",
+      "adress": "서울시 강남구 신사동 556-27",
+      "longlitude": 127.0260887,
+      "latitude": 37.52194604,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 54,
+      "restaurant": "보트르메종",
+      "adress": "서울시 강남구 청담동 3",
+      "longlitude": 127.0419623,
+      "latitude": 37.52303149,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 55,
+      "restaurant": "DOMA",
+      "adress": "서울시 강남구 도곡동 423-10",
+      "longlitude": 127.0453775,
+      "latitude": 37.4838723,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐\n / 고기 요리"
+    },
+    {
+      "No": 56,
+      "restaurant": "쿠이신보",
+      "adress": "서울시 마포구 합정동 413-16",
+      "longlitude": 126.9162344,
+      "latitude": 37.54877478,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 57,
+      "restaurant": "어머니대성집",
+      "adress": "서울시 동대문구 용두동 754-9",
+      "longlitude": 127.0282738,
+      "latitude": 37.5796409,
+      "RES_CAT": "restaurant / 한식 / 탕 / 찌개 / 전골"
+    },
+    {
+      "No": 58,
+      "restaurant": "베이크치즈타르트",
+      "adress": "서울시 서초구 반포동 19-3",
+      "longlitude": 127.0035968,
+      "latitude": 37.50435415,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 59,
+      "restaurant": "오지 편한식당",
+      "adress": "서울시 관악구 봉천동 1610-24",
+      "longlitude": 126.9550546,
+      "latitude": 37.47785234,
+      "RES_CAT": "restaurant / 기타 일식"
+    },
+    {
+      "No": 60,
+      "restaurant": "문차이나",
+      "adress": "서울시 마포구 서교동 465-11",
+      "longlitude": 126.9163852,
+      "latitude": 37.55449291,
+      "RES_CAT": "restaurant / 정통 중식 / 일반 중식"
+    },
+    {
+      "No": 61,
+      "restaurant": "부촌육회",
+      "adress": "서울시 종로구 종로4가 165-11",
+      "longlitude": 126.9999056,
+      "latitude": 37.5703636,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 62,
+      "restaurant": "스탠바이키친",
+      "adress": "서울시 서대문구 대신동 91-15",
+      "longlitude": 126.9445962,
+      "latitude": 37.56457737,
+      "RES_CAT": "restaurant / 양식 / 브런치 / 버거 / 샌드위치"
+    },
+    {
+      "No": 63,
+      "restaurant": "애정마라샹궈",
+      "adress": "서울시 성북구 동선동1가 2-6",
+      "longlitude": 127.0172164,
+      "latitude": 37.59214644,
+      "RES_CAT": "restaurant / 정통 중식 / 일반 중식"
+    },
+    {
+      "No": 64,
+      "restaurant": "르챔버",
+      "adress": "서울시 강남구 청담동 83-4",
+      "longlitude": 127.0411057,
+      "latitude": 37.52624778,
+      "RES_CAT": "bar / 술집 / 칵테일 / 와인"
+    },
+    {
+      "No": 65,
+      "restaurant": "경일옥핏제리아",
+      "adress": "서울시 중구 을지로3가 282-7",
+      "longlitude": 126.9934876,
+      "latitude": 37.56619164,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 66,
+      "restaurant": "라구",
+      "adress": "서울시 용산구 용산동2가 45-4",
+      "longlitude": 126.9874905,
+      "latitude": 37.54217659,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 67,
+      "restaurant": "모터시티",
+      "adress": "서울시 강남구 역삼동 736-1",
+      "longlitude": 127.034874,
+      "latitude": 37.49970965,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 68,
+      "restaurant": "아리아께",
+      "adress": "서울시 중구 장충동2가 202",
+      "longlitude": 127.0060099,
+      "latitude": 37.5567401,
+      "RES_CAT": "restaurant / 정통 일식 / 일반 일식"
+    },
+    {
+      "No": 69,
+      "restaurant": "파네트크루아상팩토리",
+      "adress": "서울시 종로구 내수동 71",
+      "longlitude": 126.9712594,
+      "latitude": 37.57395346,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 70,
+      "restaurant": "우동가조쿠",
+      "adress": "서울시 성동구 행당동 32-22",
+      "longlitude": 127.0428805,
+      "latitude": 37.55675504,
+      "RES_CAT": "restaurant / 일식 / 라멘 / 소바 / 우동"
+    },
+    {
+      "No": 71,
+      "restaurant": "카와카츠",
+      "adress": "서울시 마포구 서교동 465-1",
+      "longlitude": 126.9161828,
+      "latitude": 37.55472673,
+      "RES_CAT": "restaurant / 일식 / 까스 요리"
+    },
+    {
+      "No": 72,
+      "restaurant": "TBD",
+      "adress": "서울시 성동구 성수동1가 16-22",
+      "longlitude": 127.0501749,
+      "latitude": 37.54387917,
+      "RES_CAT": "restaurant / 양식 / 브런치 / 버거 / 샌드위치"
+    },
+    {
+      "No": 73,
+      "restaurant": "스쿠로",
+      "adress": "서울시 강남구 신사동 544-21",
+      "longlitude": 127.0239919,
+      "latitude": 37.52073433,
+      "RES_CAT": "bar / 술집 / 칵테일 / 와인"
+    },
+    {
+      "No": 74,
+      "restaurant": "렁트멍",
+      "adress": "서울시 동작구 상도동 416",
+      "longlitude": 126.9426792,
+      "latitude": 37.50074112,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 75,
+      "restaurant": "시라카와",
+      "adress": "서울시 강남구 신사동 664-24",
+      "longlitude": 127.0395754,
+      "latitude": 37.52697164,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 76,
+      "restaurant": "압구정공주떡집",
+      "adress": "서울시 강남구 신사동 569-31",
+      "longlitude": 127.0274155,
+      "latitude": 37.52361501,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 77,
+      "restaurant": "슬로우치즈",
+      "adress": "서울시 강남구 청담동 11-1",
+      "longlitude": 127.0469669,
+      "latitude": 37.52236461,
+      "RES_CAT": "restaurant / 양식 / 브런치 / 버거 / 샌드위치"
+    },
+    {
+      "No": 78,
+      "restaurant": "고료리 켄",
+      "adress": "서울시 강남구 신사동 631-28",
+      "longlitude": 127.0347724,
+      "latitude": 37.52300601,
+      "RES_CAT": "restaurant / 정통 일식 / 일반 일식"
+    },
+    {
+      "No": 79,
+      "restaurant": "김진목삼",
+      "adress": "서울시 종로구 필운동 154",
+      "longlitude": 126.9695344,
+      "latitude": 37.5768469,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 80,
+      "restaurant": "한냄비",
+      "adress": "서울시 용산구 한남동 631-17",
+      "longlitude": 127.0056276,
+      "latitude": 37.53244515,
+      "RES_CAT": "restaurant / 기타 일식"
+    },
+    {
+      "No": 81,
+      "restaurant": "미야자키상점",
+      "adress": "서울시 마포구 동교동 118-18",
+      "longlitude": 126.9254085,
+      "latitude": 37.56032539,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 82,
+      "restaurant": "오죽이네",
+      "adress": "서울시 종로구 익선동 156",
+      "longlitude": 126.9907454,
+      "latitude": 37.57378778,
+      "RES_CAT": "restaurant / 기타 한식"
+    },
+    {
+      "No": 83,
+      "restaurant": "스시려 프리미엄",
+      "adress": "서울시 서초구 서초동 1337-2",
+      "longlitude": 127.0287859,
+      "latitude": 37.49194256,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 84,
+      "restaurant": "칙피스",
+      "adress": "서울시 강남구 신사동 540-18",
+      "longlitude": 127.0247229,
+      "latitude": 37.51911319,
+      "RES_CAT": "restaurant / 세계음식 기타"
+    },
+    {
+      "No": 85,
+      "restaurant": "비너스본사건너편갈비살",
+      "adress": "서울시 서초구 반포동 703-7",
+      "longlitude": 127.0182499,
+      "latitude": 37.50966935,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 86,
+      "restaurant": "소와나",
+      "adress": "서울시 용산구 한남동 684-16",
+      "longlitude": 127.0009764,
+      "latitude": 37.5354931,
+      "RES_CAT": "restaurant / 기타 일식"
+    },
+    {
+      "No": 87,
+      "restaurant": "가디록",
+      "adress": "서울시 강남구 청담동 17-2",
+      "longlitude": 127.0447689,
+      "latitude": 37.52260439,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 88,
+      "restaurant": "외고집설렁탕",
+      "adress": "서울시 강남구 삼성동 120-8",
+      "longlitude": 127.0539403,
+      "latitude": 37.51102629,
+      "RES_CAT": "restaurant / 한식 / 탕 / 찌개 / 전골"
+    },
+    {
+      "No": 89,
+      "restaurant": "밴건디 스테이크 하우스",
+      "adress": "서울시 서초구 반포동 94-14",
+      "longlitude": 126.9977019,
+      "latitude": 37.49934922,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐\n / 고기 요리"
+    },
+    {
+      "No": 90,
+      "restaurant": "울라",
+      "adress": "서울시 마포구 마포동 388-5",
+      "longlitude": 126.9443289,
+      "latitude": 37.53568014,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐\n / 고기 요리"
+    },
+    {
+      "No": 91,
+      "restaurant": "화양연가",
+      "adress": "서울시 용산구 남영동 89-5",
+      "longlitude": 126.9733943,
+      "latitude": 37.54160713,
+      "RES_CAT": "restaurant / 기타 중식"
+    },
+    {
+      "No": 92,
+      "restaurant": "하얼빈양꼬치",
+      "adress": "서울시 송파구 잠실동 207-17",
+      "longlitude": 127.0851872,
+      "latitude": 37.50969679,
+      "RES_CAT": "restaurant / 기타 중식"
+    },
+    {
+      "No": 93,
+      "restaurant": "정돈",
+      "adress": "서울시 종로구 명륜4가 107",
+      "longlitude": 127.0010687,
+      "latitude": 37.58180903,
+      "RES_CAT": "restaurant / 일식 / 까스 요리"
+    },
+    {
+      "No": 94,
+      "restaurant": "오레노라멘",
+      "adress": "서울시 마포구 합정동 361-1",
+      "longlitude": 126.9172973,
+      "latitude": 37.54746994,
+      "RES_CAT": "restaurant / 일식 / 라멘 / 소바 / 우동"
+    },
+    {
+      "No": 95,
+      "restaurant": "뚜또베네",
+      "adress": "서울시 강남구 청담동 118-9",
+      "longlitude": 127.0470842,
+      "latitude": 37.52572189,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 96,
+      "restaurant": "카밀로라자네리아",
+      "adress": "서울시 마포구 서교동 382-13",
+      "longlitude": 126.9128776,
+      "latitude": 37.55253619,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 97,
+      "restaurant": "엘리스리틀이태리",
+      "adress": "서울시 송파구 송파동 8",
+      "longlitude": 127.1048233,
+      "latitude": 37.50863695,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 98,
+      "restaurant": "보니스피자펍",
+      "adress": "서울시 용산구 용산동2가 44-19",
+      "longlitude": 126.9869003,
+      "latitude": 37.54117473,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 99,
+      "restaurant": "다운타우너",
+      "adress": "서울시 강남구 신사동 666-25",
+      "longlitude": 127.0385332,
+      "latitude": 37.52403754,
+      "RES_CAT": "restaurant / 양식 / 브런치 / 버거 / 샌드위치"
+    },
+    {
+      "No": 100,
+      "restaurant": "바베네",
+      "adress": "서울시 송파구 송파동 32-3",
+      "longlitude": 127.1060712,
+      "latitude": 37.50990567,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 101,
+      "restaurant": "다로베",
+      "adress": "서울시 성동구 성수동1가 668-3",
+      "longlitude": 127.0427322,
+      "latitude": 37.547807,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 102,
+      "restaurant": "뭄알로이",
+      "adress": "서울시 마포구 상수동 313-6",
+      "longlitude": 126.9217494,
+      "latitude": 37.54826395,
+      "RES_CAT": "restaurant / 태국 음식"
+    },
+    {
+      "No": 103,
+      "restaurant": "코레아노스키친",
+      "adress": "서울시 용산구 이태원동 457-3",
+      "longlitude": 126.9882171,
+      "latitude": 37.53441003,
+      "RES_CAT": "restaurant / 남미 음식"
+    },
+    {
+      "No": 104,
+      "restaurant": "테라13",
+      "adress": "서울시 강남구 청담동 50-8",
+      "longlitude": 127.0491254,
+      "latitude": 37.52348703,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 105,
+      "restaurant": "다엔조",
+      "adress": "서울시 마포구 연남동 383-99",
+      "longlitude": 126.9264598,
+      "latitude": 37.561587,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 106,
+      "restaurant": "파스토",
+      "adress": "서울시 강남구 청담동 19-4",
+      "longlitude": 127.0430721,
+      "latitude": 37.5222439,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 107,
+      "restaurant": "미스터서왕만두",
+      "adress": "서울시 서대문구 대현동 27-20",
+      "longlitude": 126.9431325,
+      "latitude": 37.55802197,
+      "RES_CAT": "restaurant / 중식 / 딤섬 / 만두"
+    },
+    {
+      "No": 108,
+      "restaurant": "에베레스트",
+      "adress": "서울시 영등포구 영등포동 423-103",
+      "longlitude": 126.9060345,
+      "latitude": 37.51593621,
+      "RES_CAT": "restaurant / 인도 음식"
+    },
+    {
+      "No": 109,
+      "restaurant": "우마텐",
+      "adress": "서울시 강남구 신사동 661-10",
+      "longlitude": 127.039287,
+      "latitude": 37.52757415,
+      "RES_CAT": "restaurant / 일식 / 돈부리 / 일본 카레 / 벤토"
+    },
+    {
+      "No": 110,
+      "restaurant": "육전식당",
+      "adress": "서울시 강남구 역삼동 823-10",
+      "longlitude": 127.0319686,
+      "latitude": 37.49805824,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 111,
+      "restaurant": "소울브레드",
+      "adress": "서울시 서초구 우면동 59",
+      "longlitude": 127.0235437,
+      "latitude": 37.47134762,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 112,
+      "restaurant": "옥인피자",
+      "adress": "서울시 종로구 옥인동 156-2",
+      "longlitude": 126.9673054,
+      "latitude": 37.58099439,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 113,
+      "restaurant": "더파크뷰",
+      "adress": "서울시 중구 장충동2가 202",
+      "longlitude": 127.0060099,
+      "latitude": 37.5567401,
+      "RES_CAT": "restaurant / 뷔페"
+    },
+    {
+      "No": 114,
+      "restaurant": "오스테리아 오르조",
+      "adress": "서울시 용산구 한남동 31-13",
+      "longlitude": 127.0094762,
+      "latitude": 37.53490653,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 115,
+      "restaurant": "트렌치타운",
+      "adress": "서울시 용산구 이태원동 99-14",
+      "longlitude": 126.9944046,
+      "latitude": 37.53212094,
+      "RES_CAT": "restaurant / 다국적 퓨전"
+    },
+    {
+      "No": 116,
+      "restaurant": "팩피",
+      "adress": "서울시 성동구 성수동1가 656-947",
+      "longlitude": 127.0445216,
+      "latitude": 37.54969589,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 117,
+      "restaurant": "코스모스시",
+      "adress": "서울시 은평구 녹번동 117-47",
+      "longlitude": 126.9319311,
+      "latitude": 37.6072934,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 118,
+      "restaurant": "요코쵸",
+      "adress": "서울시 마포구 연남동 240-1",
+      "longlitude": 126.9235019,
+      "latitude": 37.5653146,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 119,
+      "restaurant": "타쿠미곤",
+      "adress": "서울시 서초구 반포동 107-43",
+      "longlitude": 126.9954453,
+      "latitude": 37.49864492,
+      "RES_CAT": "restaurant / 정통 일식 / 일반 일식"
+    },
+    {
+      "No": 120,
+      "restaurant": "플랜트",
+      "adress": "서울시 용산구 이태원동 130-43",
+      "longlitude": 126.994191,
+      "latitude": 37.5331507,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 121,
+      "restaurant": "몽고네",
+      "adress": "서울시 강남구 신사동 665-10",
+      "longlitude": 127.039063,
+      "latitude": 37.52510201,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 122,
+      "restaurant": "비엘티스테이크",
+      "adress": "서울시 종로구 종로6가 289-3",
+      "longlitude": 127.0088868,
+      "latitude": 37.57038422,
+      "RES_CAT": "restaurant / 양식 / 스테이크 / 바베큐"
+    },
+    {
+      "No": 123,
+      "restaurant": "더라이브러리",
+      "adress": "서울시 중구 장충동2가 202",
+      "longlitude": 127.0060099,
+      "latitude": 37.5567401,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 124,
+      "restaurant": "멘야하나비",
+      "adress": "서울시 서초구 잠원동 10-44",
+      "longlitude": 127.0175375,
+      "latitude": 37.51626414,
+      "RES_CAT": "restaurant / 일식 / 라멘 / 소바 / 우동"
+    },
+    {
+      "No": 125,
+      "restaurant": "모범갈빗살",
+      "adress": "서울시 서초구 서초동 1308-25",
+      "longlitude": 127.0245579,
+      "latitude": 37.50092515,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 126,
+      "restaurant": "레프레미스",
+      "adress": "서울시 서초구 서초동 1430-1",
+      "longlitude": 127.0206204,
+      "latitude": 37.48435126,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 127,
+      "restaurant": "럭키인디아",
+      "adress": "서울시 마포구 서교동 391-18",
+      "longlitude": 126.9151814,
+      "latitude": 37.55159626,
+      "RES_CAT": "restaurant / 인도 음식"
+    },
+    {
+      "No": 128,
+      "restaurant": "228-9",
+      "adress": "서울시 마포구 연남동 228-9",
+      "longlitude": 126.9257284,
+      "latitude": 37.5631495,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 129,
+      "restaurant": "랩트웬티포",
+      "adress": "서울시 강남구 신사동 643-1",
+      "longlitude": 127.0352148,
+      "latitude": 37.52733112,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 130,
+      "restaurant": "스시 나미키",
+      "adress": "서울시 강남구 논현동 241-1",
+      "longlitude": 127.0401157,
+      "latitude": 37.51654406,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 131,
+      "restaurant": "라이너스 바베큐 앤 치킨",
+      "adress": "서울시 용산구 용산동2가 37-5",
+      "longlitude": 126.9873374,
+      "latitude": 37.54263955,
+      "RES_CAT": "restaurant / 양식 / 고기 요리 / 스테이크 / 바베큐"
+    },
+    {
+      "No": 132,
+      "restaurant": "맘맘테이블",
+      "adress": "서울시 서대문구 창천동 13-111",
+      "longlitude": 126.9388511,
+      "latitude": 37.55782128,
+      "RES_CAT": "restaurant / 베트남 음식"
+    },
+    {
+      "No": 133,
+      "restaurant": "무오키",
+      "adress": "서울시 강남구 청담동 38-4",
+      "longlitude": 127.0422185,
+      "latitude": 37.5190226,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 134,
+      "restaurant": "스시키",
+      "adress": "서울시 강남구 역삼동 683-2",
+      "longlitude": 127.0438394,
+      "latitude": 37.50888092,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 135,
+      "restaurant": "강서면옥",
+      "adress": "서울시 강남구 신사동 645-30",
+      "longlitude": 127.0351022,
+      "latitude": 37.52555278,
+      "RES_CAT": "restaurant / 한식 / 국수 / 면 요리"
+    },
+    {
+      "No": 136,
+      "restaurant": "젠제로",
+      "adress": "서울시 강남구 삼성동 10-18",
+      "longlitude": 127.0432207,
+      "latitude": 37.51526685,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 137,
+      "restaurant": "리틀빅토리",
+      "adress": "서울시 마포구 연남동 381-6",
+      "longlitude": 126.9256687,
+      "latitude": 37.56076389,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 138,
+      "restaurant": "칸다소바",
+      "adress": "서울시 종로구 체부동 28-2",
+      "longlitude": 126.9712489,
+      "latitude": 37.57815055,
+      "RES_CAT": "restaurant / 일식 / 라멘 / 소바 / 우동"
+    },
+    {
+      "No": 139,
+      "restaurant": "있을재",
+      "adress": "서울시 강남구 신사동 644-7",
+      "longlitude": 127.0351949,
+      "latitude": 37.52636668,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 140,
+      "restaurant": "까이식당",
+      "adress": "서울시 서대문구 대현동 53-9",
+      "longlitude": 126.9462245,
+      "latitude": 37.55851972,
+      "RES_CAT": "restaurant / 다국적 아시아 음식"
+    },
+    {
+      "No": 141,
+      "restaurant": "로향양꼬치",
+      "adress": "서울시 관악구 봉천동 1601-10",
+      "longlitude": 126.9546703,
+      "latitude": 37.47997217,
+      "RES_CAT": "restaurant / 기타 중식"
+    },
+    {
+      "No": 142,
+      "restaurant": "대흥양다리바베큐",
+      "adress": "서울시 광진구 자양동 6-20",
+      "longlitude": 127.067365,
+      "latitude": 37.53888145,
+      "RES_CAT": "restaurant / 기타 중식"
+    },
+    {
+      "No": 143,
+      "restaurant": "해룡마라룽샤",
+      "adress": "서울시 광진구 자양동 857",
+      "longlitude": 127.0646984,
+      "latitude": 37.53934994,
+      "RES_CAT": "restaurant / 기타 중식"
+    },
+    {
+      "No": 144,
+      "restaurant": "밀즈앤모어",
+      "adress": "서울시 서초구 잠원동 31-1",
+      "longlitude": 127.0161619,
+      "latitude": 37.51365719,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 145,
+      "restaurant": "부부 드 꼼뜨와",
+      "adress": "서울시 마포구 동교동 197-25",
+      "longlitude": 126.9224347,
+      "latitude": 37.55985933,
+      "RES_CAT": "restaurant / 양식 / 프랑스 음식"
+    },
+    {
+      "No": 146,
+      "restaurant": "야스노야지로",
+      "adress": "서울시 용산구 원효로1가 57-9",
+      "longlitude": 126.9680931,
+      "latitude": 37.53852315,
+      "RES_CAT": "restaurant / 기타 일식"
+    },
+    {
+      "No": 147,
+      "restaurant": "호루몬",
+      "adress": "서울시 강남구 청담동 53-6",
+      "longlitude": 127.053336,
+      "latitude": 37.52418938,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 148,
+      "restaurant": "찰스에이치",
+      "adress": "서울시 종로구 당주동 30",
+      "longlitude": 126.9753952,
+      "latitude": 37.57075585,
+      "RES_CAT": "bar / 술집 / 칵테일 / 와인"
+    },
+    {
+      "No": 149,
+      "restaurant": "더 아래",
+      "adress": "서울시 용산구 이촌동 300-267",
+      "longlitude": 126.9777,
+      "latitude": 37.51796916,
+      "RES_CAT": "bar / 술집 / 칵테일 / 와인"
+    },
+    {
+      "No": 150,
+      "restaurant": "건강한빵",
+      "adress": "서울시 종로구 명륜3가 148-1",
+      "longlitude": 126.9979038,
+      "latitude": 37.58352459,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 151,
+      "restaurant": "배꼽집",
+      "adress": "서울시 강남구 논현동 140-3",
+      "longlitude": 127.0240921,
+      "latitude": 37.51007157,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 152,
+      "restaurant": "스시레이와",
+      "adress": "서울시 강남구 논현동 63-16",
+      "longlitude": 127.0327345,
+      "latitude": 37.51984427,
+      "RES_CAT": "restaurant / 정통 일식 / 일반 일식"
+    },
+    {
+      "No": 153,
+      "restaurant": "원스인어블루문",
+      "adress": "서울시 강남구 청담동 85-1",
+      "longlitude": 127.0401426,
+      "latitude": 37.52541959,
+      "RES_CAT": "bar / 술집 / 칵테일 / 와인"
+    },
+    {
+      "No": 154,
+      "restaurant": "모수",
+      "adress": "서울시 용산구 한남동 738-11",
+      "longlitude": 126.9993897,
+      "latitude": 37.53646611,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 155,
+      "restaurant": "에노테카오토",
+      "adress": "서울시 서대문구 연희동 130-13",
+      "longlitude": 126.9288443,
+      "latitude": 37.56734694,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 156,
+      "restaurant": "평안도족발집",
+      "adress": "서울시 중구 장충동1가 62-16",
+      "longlitude": 127.0060231,
+      "latitude": 37.56025089,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 157,
+      "restaurant": "마시&바시",
+      "adress": "서울시 용산구 청파동3가 109-16",
+      "longlitude": 126.9680957,
+      "latitude": 37.54451893,
+      "RES_CAT": "restaurant / 퓨전 양식"
+    },
+    {
+      "No": 158,
+      "restaurant": "소세지하우스",
+      "adress": "서울시 용산구 원효로2가 90-16",
+      "longlitude": 126.9613086,
+      "latitude": 37.53547961,
+      "RES_CAT": "bar / 술집 / 치킨 / 호프 / 펍"
+    },
+    {
+      "No": 159,
+      "restaurant": "고스마",
+      "adress": "서울시 종로구 누상동 29-3",
+      "longlitude": 126.9658687,
+      "latitude": 37.58068846,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 160,
+      "restaurant": "보이어",
+      "adress": "서울시 성동구 성수동1가 16-26",
+      "longlitude": 127.0508937,
+      "latitude": 37.54362473,
+      "RES_CAT": "restaurant / 기타 양식"
+    },
+    {
+      "No": 161,
+      "restaurant": "조용한저녁",
+      "adress": "서울시 마포구 창전동 2-31",
+      "longlitude": 126.9326139,
+      "latitude": 37.55371931,
+      "RES_CAT": "restaurant / 양식 / 패밀리 레스토랑"
+    },
+    {
+      "No": 162,
+      "restaurant": "몽중식",
+      "adress": "서울시 마포구 연남동 227-15",
+      "longlitude": 126.9267029,
+      "latitude": 37.56237419,
+      "RES_CAT": "restaurant / 정통 중식 / 일반 중식"
+    },
+    {
+      "No": 163,
+      "restaurant": "르방드지우",
+      "adress": "서울시 서초구 반포동 91-3",
+      "longlitude": 127.0022244,
+      "latitude": 37.49330966,
+      "RES_CAT": "restaurant / 퓨전 양식"
+    },
+    {
+      "No": 164,
+      "restaurant": "도림",
+      "adress": "서울시 중구 소공동 1",
+      "longlitude": 126.9810641,
+      "latitude": 37.56479937,
+      "RES_CAT": "restaurant / 정통 중식 / 일반 중식"
+    },
+    {
+      "No": 165,
+      "restaurant": "미성옥",
+      "adress": "서울시 중구 명동1가 54-6",
+      "longlitude": 126.9838693,
+      "latitude": 37.56415475,
+      "RES_CAT": "restaurant / 한식 / 탕 / 찌개 / 전골"
+    },
+    {
+      "No": 166,
+      "restaurant": "슈토",
+      "adress": "서울시 강남구 도곡동 947-11",
+      "longlitude": 127.0348622,
+      "latitude": 37.48735002,
+      "RES_CAT": "restaurant / 정통 일식 / 일반 일식"
+    },
+    {
+      "No": 167,
+      "restaurant": "카페공든",
+      "adress": "서울시 서대문구 연희동 310-5",
+      "longlitude": 126.9327864,
+      "latitude": 37.56424267,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    },
+    {
+      "No": 168,
+      "restaurant": "우제홍참치",
+      "adress": "서울시 강남구 논현동 164-16",
+      "longlitude": 127.0234001,
+      "latitude": 37.508343,
+      "RES_CAT": "restaurant / 일식 / 회 / 스시"
+    },
+    {
+      "No": 169,
+      "restaurant": "아티장베이커스",
+      "adress": "서울시 용산구 한남동 30-3",
+      "longlitude": 127.0086512,
+      "latitude": 37.53453849,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 170,
+      "restaurant": "소담정",
+      "adress": "서울시 송파구 방이동 63-4",
+      "longlitude": 127.1082169,
+      "latitude": 37.5137005,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 171,
+      "restaurant": "폴앤폴리나",
+      "adress": "서울시 영등포구 여의도동 37",
+      "longlitude": 126.9239476,
+      "latitude": 37.52047133,
+      "RES_CAT": "cafe / 베이커리"
+    },
+    {
+      "No": 172,
+      "restaurant": "주휴소",
+      "adress": "서울시 용산구 이태원동 129-9",
+      "longlitude": 126.9935043,
+      "latitude": 37.53334703,
+      "RES_CAT": "bar / 술집 / 치킨 / 호프 / 펍"
+    },
+    {
+      "No": 173,
+      "restaurant": "소이연남마오",
+      "adress": "서울시 강남구 신사동 665-9",
+      "longlitude": 127.0388938,
+      "latitude": 37.52514117,
+      "RES_CAT": "restaurant / 태국 음식"
+    },
+    {
+      "No": 174,
+      "restaurant": "다로베",
+      "adress": "서울시 강남구 논현동 94-9",
+      "longlitude": 127.0388672,
+      "latitude": 37.52220043,
+      "RES_CAT": "restaurant / 양식 / 이탈리안"
+    },
+    {
+      "No": 175,
+      "restaurant": "기노",
+      "adress": "서울시 마포구 도화동 204-1",
+      "longlitude": 126.9479634,
+      "latitude": 37.53856053,
+      "RES_CAT": "bar / 일식 / 술집 / 이자카야 / 오뎅 / 꼬치"
+    },
+    {
+      "No": 176,
+      "restaurant": "홍어한마리",
+      "adress": "서울시 마포구 서교동 480-9",
+      "longlitude": 126.9125817,
+      "latitude": 37.55424655,
+      "RES_CAT": "restaurant / 한식 / 해산물 요리"
+    },
+    {
+      "No": 177,
+      "restaurant": "백송",
+      "adress": "서울시 중구 신당동 248-32",
+      "longlitude": 127.0134314,
+      "latitude": 37.56477168,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 178,
+      "restaurant": "오목집",
+      "adress": "서울시 종로구 공평동 125-1",
+      "longlitude": 126.9825448,
+      "latitude": 37.57186076,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 179,
+      "restaurant": "효자동목고기",
+      "adress": "서울시 강남구 신사동 663-27",
+      "longlitude": 127.0391744,
+      "latitude": 37.52662325,
+      "RES_CAT": "restaurant / 한식 / 고기 요리"
+    },
+    {
+      "No": 180,
+      "restaurant": "코코부코",
+      "adress": "서울시 마포구 망원동 396-29",
+      "longlitude": 126.9043168,
+      "latitude": 37.55259503,
+      "RES_CAT": "cafe / 카페 / 디저트"
+    }
+  ]
+}

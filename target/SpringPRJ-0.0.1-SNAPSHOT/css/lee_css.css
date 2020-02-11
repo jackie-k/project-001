@@ -1,0 +1,40 @@
+.pNumWraaper {
+    display: flex;
+    place-content: center;
+}
+.pNumWraaper a {
+    font-size: 16px;
+    color: #ff3a6d;
+    padding: 2px 6px;
+    margin: 10px 0px;
+}
+.pNumWraaper .now {
+    background-color: #ff3a6d;
+    color: #FFFFFF !important;
+    border-radius: 20px;
+}
+.pNumWraaper .pNumStart {
+    border-radius: 10px 0px 0px 10px;
+}
+.pNumWraaper .pNumEnd {
+    border-radius: 0px 10px 10px 0px;
+}
+.back{
+    text-align: center;
+}
+.back{
+    color: #ff3a6d;
+    background: #fff;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: bold;
+}
+.pageTitle p{
+    text-align: right;
+}
+.tapContentTitle h7 {
+    text-aligh: right;
+}
+
+
